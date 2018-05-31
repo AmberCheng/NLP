@@ -1,0 +1,13 @@
+--------------------------CFG_my3------------------------------
+(S
+  (NP (CD two) (NNS days))
+  (VP (TO to) (VP (VB go) (NP (NN party)) (ADVP (RB now)))))
+(S
+  (NP (CD two) (NNS days))
+  (VP (TO to) (VP (VB go) (ADVP (NP (NN party)) (RB now)))))
+--------------------------CFG_my3------------------------------
+(S (NP (PRP We)) (VP (MD may) (VP (VB go) (ADVP (RB now)))))
+--------------------------CFG_my3------------------------------
+(S
+  (NP (PRPS Their) (NNS days))
+  (VP (VBP are) (RB not) (ADVP (RB always)) (ADJP (JJ nice))))

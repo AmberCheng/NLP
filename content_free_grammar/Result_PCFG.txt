@@ -1,0 +1,31 @@
+--------------------------PCFG------------------------------
+(S
+  (NP (PRP We))
+  (VP
+    (VBD had)
+    (NP (Det a) (ADJP (JJ nice)) (NN party))
+    (NP (NN yesterday)))) (p=1.39648e-05)
+--------------------------PCFG------------------------------
+(S
+  (NP (PRP She))
+  (VP
+    (VBD came)
+    (S
+      (VP
+        (TO to)
+        (VP
+          (VB visit)
+          (NP (PRP me))
+          (ADVP (NP (CD two) (NNS days)) (RB ago))))))) (p=9.42371e-09)
+--------------------------PCFG------------------------------
+(S
+  (NP (PRP You))
+  (VP (MD may) (VP (VB go) (ADVP (RB now))))) (p=0.00017126)
+--------------------------PCFG------------------------------
+(S
+  (NP (PRPS Their) (NNS kids))
+  (VP
+    (VBP are)
+    (RB not)
+    (ADVP (RB always))
+    (ADJP (JJ naive)))) (p=0.000149703)
