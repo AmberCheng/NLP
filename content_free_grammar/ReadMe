@@ -1,0 +1,6 @@
+In this part, I develop the context-free grammar that can parse all the following sentences. 
+(a) “We had a nice party yesterday” 
+(b) “She came to visit me two days ago”  
+(c) “You may go now” 
+(d) “Their kids are not always naive" 
+And using Python environment to test your grammar to make sure that it does the job. 
