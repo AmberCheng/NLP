@@ -1,0 +1,5 @@
+This part is a Python code that extracts only review texts. 
+For the classification task and the experiments, start with the “bag-of-words” features 
+where all the words are collected in the sentence_polarity corpus and select some number of most frequent words to be the word features.  
+You should use different classifiers to train and test a classifier on your feature sets. 
+For example, taking the unigram word features as a baseline and see if the features designed can improve the accuracy of the classification.
