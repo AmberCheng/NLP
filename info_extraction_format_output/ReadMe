@@ -1,0 +1,6 @@
+It is to exercise the power of regular expressions in information searching.  
+Write a Python code that reads in each abstract and extract the abstract identity (‘File’), NSF organization (‘NSF org’), 
+the award amount, and abstract text. Please submit the output with a tabular format included.  
+Distribution of sentence lengths to identify sentences in the abstract. May use sentence tokenizers in Python.  
+Output should contain the abstract identity, the sentence number, and the sentence text delimited with a bar (|),  
+and the total number of sentences per each file at the end. 
